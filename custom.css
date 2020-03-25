@@ -1,0 +1,50 @@
+.body {
+    margin: 5em;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 12px;
+}
+.titulo {
+    color: green;
+    
+}
+.imgmirante {
+    width: 12vw;
+    height: 9vw;
+    padding-left: 10px;
+}
+.textmirante {
+    text-align: left;
+    padding-top: 0%;
+    width: 80vh;
+
+}
+.imgportico {
+    width: 12vw;
+    height: 9vw;
+    padding-left: 10px;
+}
+.textportico{
+    text-align: left;
+    padding-top: 0%;
+    width: 80vh;
+}
+.imgportal {
+    width: 12vw;
+    height: 9vw;
+    padding-left: 10px; 
+}
+.textportal {
+    text-align: left;
+    padding-top: 0%;
+    width: 80vh;
+}
+.outros {
+    padding-right: 5px;
+    text-align: right;
+    font-size: 14px;
+    width:40%; 
+    
+}
